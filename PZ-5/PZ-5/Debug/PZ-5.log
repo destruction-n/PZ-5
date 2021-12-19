@@ -1,0 +1,7 @@
+﻿  PZ-5.cpp
+C:\Users\User\Documents\GitHub\PZ-5\PZ-5\PZ-5\PZ-5.cpp(20,47): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\GitHub\PZ-5\PZ-5\PZ-5\PZ-5.cpp(73,35): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\GitHub\PZ-5\PZ-5\PZ-5\PZ-5.cpp(82,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\GitHub\PZ-5\PZ-5\PZ-5\PZ-5.cpp(84,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\GitHub\PZ-5\PZ-5\PZ-5\PZ-5.cpp(85,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  PZ-5.vcxproj -> C:\Users\User\Documents\GitHub\PZ-5\PZ-5\Debug\PZ-5.exe
